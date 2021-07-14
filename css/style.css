@@ -261,3 +261,59 @@ h2.title {
     margin-top: 54px; 
 
 }
+
+.vebinar {
+    min-height: 515px;
+}
+.vebinar_wrapper {
+    padding-top: 85px;
+    padding-bottom: 68px;
+}
+
+.vebinar img {
+    display: block;
+    margin: 0 auto;
+}
+
+.vebinar_first_text {
+    margin-top: 43px;
+    color: #252525;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.vebinar_date {
+    margin-top: 20px;
+    color: #299cbd;
+    font-size: 36px;
+    font-weight: 900;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.vebinar_last_text {
+    margin-top: 20px;
+    color: #4a4a4a;
+    font-size: 23px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.footer {
+    min-height: 167px;
+    background-color: #1a1a1a;
+}
+
+.footer_text {
+    font-weight: 300;
+    color: #888888;
+    padding-top: 60px;
+    padding-bottom: 69px;
+    text-align: center;
+}
+
+.footer_links a {
+    color: #888888;
+}
